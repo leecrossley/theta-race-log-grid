@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24412100.svg)](https://doi.org/10.5281/zenodo.24412100)
 
+This result is now maintained in [theta-host-split-inert-race](https://github.com/leecrossley/theta-host-split-inert-race/tree/main/results/theta-race-log-grid). This repository is archived and keeps its releases and DOI.
+
 Pick any real $`H\ge1`$ and any offset for a geometric grid with log step $`10^{-6}`$. In the dyadic 547/727 prime-ideal race, **both a gain and a loss above $`1.9735\log2`$ in magnitude start on that grid after $`H`$ and finish by $`10^{18}H`$.** At most 40,753,385 grid starts are eligible. [Theorem and proof](PROOF.md)
 
 The stronger statement gives two complete intervals of log starting heights, one for each direction. Each interval has width $`10^{-6}`$ and every start in it qualifies. The earlier deadline guaranteed a point for each sign. This result also applies to every finer log grid. [Earlier deadline](https://github.com/leecrossley/theta-race-filtered-deadline/blob/2400dc5ac2a7969d41e1a4bde1eb44dd6c63b7a2/PROOF.md) · [Prior work](PRIOR-WORK.md)
